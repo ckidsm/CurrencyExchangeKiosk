@@ -1,0 +1,11 @@
+1.개발 환경 
+ .net 4.52 / DevExpress.v19.2 -> 그리드 사용
+ 
+2.솔루션 구성
+ "CurrencyExchangeKiosk"
+ ->키오스크 응용 프로그램 프로젝트 파일
+   형식: EXE
+ 
+ "ImageButton"
+ -> 이미지 버튼 프로젝트 파일
+   형식 : DLL
